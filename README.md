@@ -1,6 +1,7 @@
 # Data-Structure
 JavaScript Data Structure
 
+Data Structure is a systematic way to organize data in order to use it efficiently.
 
 Data Structure Topics
 
@@ -18,3 +19,11 @@ Data Structure Topics
 12. Priority Queues (custom)
 13. Heaps (custom)
 14. Graphs (custom)
+
+
+* Different Tasks Require Different Data Structures
+
+1. Ordered List of Data, Duplicates Allowed = Array
+2. Unordered List of Data, No Duplicates Allowed = Set
+3. Key-value pairs of Unordered Data = Object
+4. Key-value pairs of Ordered, Iterable Data = Map
