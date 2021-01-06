@@ -65,8 +65,14 @@ D. Map
 
   1. Ordered key-value pairs of data
   2. Element access via key
+  3. Iterable
+  4. Keys are unique, values are not
+  5. Keys can be anything (including reference values like arrays)
+  6. Pure data storage, optimized for data access
   
 E. Linked List
+
 F. Stack - LIFO
+
 G. Queue
   
