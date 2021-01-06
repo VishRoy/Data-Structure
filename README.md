@@ -64,6 +64,8 @@ C. Objects
 D. Map
 
   1. Ordered key-value pairs of data
+  2. Element access via key
+  
 E. Linked List
 F. Stack - LIFO
 G. Queue
