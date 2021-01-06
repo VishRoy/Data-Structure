@@ -53,6 +53,14 @@ B. Set
   
   
 C. Objects
+
+  1. Unordered key-value pairs of data
+  2. Element access via key(property name)
+  3. Not iterable (only with for-in)
+  4. Keys are unique, values are not
+  5. Keys have to be strings, numbers or symbols
+  6. Can store data & functionality (methods)
+  
 D. Map
 E. Linked List
 F. Stack - LIFO
