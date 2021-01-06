@@ -42,6 +42,16 @@ A. Arrays
   
   
 B. Set
+
+  1. Set lets you store unique values of any type, whether primitive values or object references.
+  2. Insertion order is not sorted/memorised. Hence, we cannot access set elements via index.
+  3. Element access and extration is done via methods.
+  4. Iterable (you can use the for-of loops).
+  5. Size (length) adjusts dynamically.
+  6. Duplicate values are not allowed.
+  7. Deletion and finding elements is trivial and faster than arrays.
+  
+  
 C. Objects
 D. Map
 E. Linked List
