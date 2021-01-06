@@ -62,6 +62,8 @@ C. Objects
   6. Can store data & functionality (methods)
   
 D. Map
+
+  1. Ordered key-value pairs of data
 E. Linked List
 F. Stack - LIFO
 G. Queue
