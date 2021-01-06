@@ -27,3 +27,24 @@ Data Structure Topics
 2. Unordered List of Data, No Duplicates Allowed = Set
 3. Key-value pairs of Unordered Data = Object
 4. Key-value pairs of Ordered, Iterable Data = Map
+
+
+
+A. Arrays 
+
+  1. Insertion order is kept
+  2. Element access via index
+  3. Iterable (you can use the for-of loop)
+  4. Size (length) adjusts dynamically
+  5. Duplicate values are allowed
+  6. In JavaScript, you can have mixtypes in Array.
+  7. Downside - Deleting and finding item in arrays require extra work. 
+  
+  
+B. Set
+C. Objects
+D. Map
+E. Linked List
+F. Stack - LIFO
+G. Queue
+  
