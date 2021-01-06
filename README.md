@@ -74,5 +74,9 @@ E. Linked List
 
 F. Stack - LIFO
 
-G. Queue
+G. Queue - FIFO
+
+  1. First in first out
+  2. Enqueue - add elements at the end, dequeue - remove elements from the top
+  3. E.q - Queue at a bank 
   
