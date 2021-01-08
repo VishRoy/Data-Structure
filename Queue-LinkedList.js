@@ -1,6 +1,7 @@
 import {LinkedList} from './LinkedList.js';
 
 class Queue {
+  
   constructor(){
     this.list = new LinkedList()
   }
@@ -12,10 +13,13 @@ class Queue {
   dequeue(){
       return this.list.deleteHead()
   }
+  
   isEmpty(){
     return !this.list.head;
   }
+  
   toArray(){
      return this.list.toArray()
   }
+  
 }
