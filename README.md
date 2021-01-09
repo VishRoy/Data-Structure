@@ -80,7 +80,9 @@ G. Queue - FIFO
   2. Enqueue - add elements at the end, dequeue - remove elements from the top
   3. E.q - Queue at a bank 
   
-7. Hash Table
+H. Hash Table
+
+  A hash table (often called a hash map) is a data structure that maps keys to values. Hash tables combine lookup, insert, and delete operations in an efficient way. The key is sent to a hash function that performs arithmetic operations on it. The result (called the hash value or hash) is an index of the key-value pair.
   
   1. The existing javascript object is implemented as a Hash Table under the hood!
   2. Hash Table stores the data in index:value pair format instead of key:value pair format
