@@ -21,4 +21,13 @@ class HashTable{
     let keyHash = this.hash(key)
     return this.buckets[keyHash]
   }
+  
+  showInfo(){
+    for(const key in this.buckets){
+      if(this.buckets[key] !== null){
+        console.log(key, this.buckets[key])
+      }
+    }
+  }
+  
 }
