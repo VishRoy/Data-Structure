@@ -80,3 +80,9 @@ G. Queue - FIFO
   2. Enqueue - add elements at the end, dequeue - remove elements from the top
   3. E.q - Queue at a bank 
   
+7. Hash Table
+  
+  1. The existing javascript object is implemented as a Hash Table under the hood!
+  2. Hash Table stores the data in index:value pair format instead of key:value pair format
+  3. Hashing function is used to convert key into index
+  
