@@ -31,3 +31,19 @@ class HashTable{
   }
   
 }
+
+const table = new HashTable()
+
+for(const char of 'academy'){
+  table.set(char,char)
+}
+
+for(const char of 'hello'){
+  table.set(char,char)
+}
+
+for(const char of 'does this work'){
+  table.set(char,char)
+}
+
+table.showInfo()
