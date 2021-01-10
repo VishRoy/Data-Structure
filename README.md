@@ -72,6 +72,8 @@ D. Map
   
 E. Linked List
 
+  A list of elements that are linked to each other. Every element knows about the next element. Linked List allows for efficient re-sizing and insertion at start and end of the list.
+
 F. Stack - LIFO
 
 G. Queue - FIFO
