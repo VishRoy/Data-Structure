@@ -76,6 +76,11 @@ E. Linked List
 
 F. Stack - LIFO
 
+  1. Custom List
+  2. Last In First Out
+  3. New items are always added ('pushed') on top of the stock.
+  4. Items are always removed ('popped') from top of the stock.
+
 G. Queue - FIFO
 
   1. First in first out
