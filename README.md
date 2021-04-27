@@ -1,5 +1,5 @@
 # Data-Structure
-JavaScript Data Structure
+Data Structure in JavaScript
 
 Data Structure is a systematic way to organize data in order to use it efficiently.
 
